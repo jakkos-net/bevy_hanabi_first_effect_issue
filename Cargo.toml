@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.14.2"
-bevy_hanabi = "0.12.2"
+bevy_hanabi = {git = "https://github.com/djeedai/bevy_hanabi"}
